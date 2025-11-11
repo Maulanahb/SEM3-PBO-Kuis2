@@ -1,3 +1,3 @@
-public class IConnectable {
-    
+public interface IConnectable {
+    void connectToWiFi();
 }

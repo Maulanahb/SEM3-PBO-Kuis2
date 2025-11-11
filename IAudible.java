@@ -1,3 +1,5 @@
-public class IAudible {
-    
+public interface IAudible {
+    void naikkanVolume();
+    void turunkanVolume();
 }
+
